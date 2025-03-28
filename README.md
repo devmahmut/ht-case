@@ -20,12 +20,12 @@ Bu proje, Hyper Teknoloji için geliştirilmiş bir ürün listeleme sayfasıdı
 
 1. Projeyi klonlayın:
 ```bash
-git clone 
+git clone https://github.com/devmahmut/ht-case.git
 ```
 
 2. Proje dizinine gidin:
 ```bash
-cd hypertech-case
+cd ht-case
 ```
 
 3. `src/index.html` dosyasını bir web tarayıcısında açın.
@@ -33,4 +33,4 @@ cd hypertech-case
 
 ## Geliştirici
 
-[Mahmut Doğan]
+Mahmut Doğan
